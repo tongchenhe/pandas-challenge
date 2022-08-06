@@ -1,5 +1,5 @@
 # pandas-challenge
-From the two provided csv files of schools' and students' data in a certain district, we made a jupyter notebook that contains tables of:
+From the two provided csv files of schools and students' data in a certain district, we made a jupyter notebook that contains tables of:
 * A district summary that shows the general information of the schools and students
 * A school summary that shows the school's name, size, budget, students' average math and reading scores, and passing rate of each school
 * Highest and lowest performing schools sorted by overall passing rate
